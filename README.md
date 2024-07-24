@@ -1,6 +1,6 @@
 # HR Dashboard in Power BI
 
-![Dashboard Image](path_to_image)
+![Dashboard Image](bi.png)
 
 ## Overview
 
